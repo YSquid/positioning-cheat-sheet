@@ -1,0 +1,47 @@
+
+* {
+    background-color: lightgrey;
+}
+
+/* Rules for CSS code block styling */
+
+
+
+.css__selector {
+    color: brown;
+    margin-left: 10px;
+}
+
+.css__property {
+    color: red;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.css__value {
+    color: blue;
+    margin-left: 10px;
+}
+
+.closing__bracket {
+    margin-left: 10px;
+}
+
+/* Static example elements */
+
+.static__1 {
+    background-color: orange;
+}
+
+.static__2 {
+    background-color: red;
+}
+
+.static__3 {
+    background-color: rgb(76, 139, 199) ;
+}
+
+.static__4 {
+    background-color: green;
+}
+
