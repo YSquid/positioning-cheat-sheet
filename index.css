@@ -1,6 +1,7 @@
 
 * {
     background-color: rgb(235, 217, 194);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .inline__rule {
@@ -8,6 +9,20 @@
     color: red;
     padding: 0 5px;
 }
+
+code {
+    background-color: lightgrey;
+}
+
+.code__example {
+    background-color: lightgrey;
+}
+
+.code__example span {
+    background-color: lightgrey;
+    font-family: monospace;
+}
+
 
 
 /* Rules for CSS code block styling */
