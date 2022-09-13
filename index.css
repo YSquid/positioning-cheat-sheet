@@ -133,9 +133,11 @@
 
 .sticky__example {
     background-color: orange;
+    text-align: center;
 }
 
 .stuck {
     position: sticky;
     top: 0px;
+    background-color: green;
 }
